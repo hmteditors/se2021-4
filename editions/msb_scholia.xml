@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Scholia to Venetus B</title>
+        <editor>YOUR NAME</editor>
+        <editor>YOUR NAME</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Transcribed from Venetus B MS</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <group n="4">
+      <text n="msB">
+        <body>
+          <div n="51r_5" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="19">ιθ</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.1@οἱ</p>
+            </div>
+            <div n="comment">
+              <p>πιθανῶς ἐκ τοῦ κάτωθεν θορύβου, ἐις 
+                 <choice><abbr>ὀυνὸν</abbr><expan>οὐρανὸν</expan></choice>
+                τὴν σκηνὴν μετήγαγεν: σεμνύνων καὶ ποικίλλων ἅμα τὴν ποίησιν,
+                τόποις τὲ καὶ προσώποις καὶ λόγοις: ὑπονοεῖν δε δεῖ παρὰ τὴν
+                ἁρπαγὴν ἀλεξάνδρου τοὺς λογους γεγενῆσθαι τοῖς θεοῖς:  ηὔξησε δὲ 
+                τὸ ἀγωνιστικὸν τῆς ὑποθέσεως τῇ τῶν θεῶν προνοίᾳ ⁑
+              </p>
+            </div>
+          </div>
+
+          
+        
+        </body>
+      </text>
+    </group>
+  </text>
+</TEI>

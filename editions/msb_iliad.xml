@@ -6,7 +6,11 @@
       <titleStmt>
         <title>Iliad</title>
         <editor>Neel Smith</editor>
-        <editor>YOUR NAME</editor>
+        <editor>Stephanie Lindeborg</editor>
+        <editor>Olga Levaniouk</editor>
+        <editor>Stephen Pittman</editor> 
+        <editor>Anne-Catherine Schaaf</editor>        
+        <editor>Hannah Newland</editor>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished edition of the Venetus B manuscript for the Homer Multitext project</p>
@@ -20,7 +24,8 @@
     <body>
       <div n="4">
         <l n="title">ἀρχὴ τῆς δέλτα ὁμήρου ἰλιάδος ⁑</l>
-        <l n="1">οἱ δὲ θεοί</l>
+
+        <l n="84">Ζεὺς ὅς τ' ἀνων ταμίης πολέμοιο τέτυκται: </l>
       </div>
     </body>
   </text>

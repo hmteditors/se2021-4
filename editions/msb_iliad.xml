@@ -26,7 +26,8 @@
       
         <l n="84"><persName n="urn:cite2:hmt:pers.v1:pers8">Ζεὺς</persName> 
           ὅς τ' <choice><abbr>ἀνων</abbr><expan>ἀνθρώπων</expan></choice> ταμίης πολέμοιο τέτυκται:</l>
-      </div>
+        <l n="85">ὣς ἄρα τίς εἴπεσκεν <rs type="ethnic" n="urn:cite2:hmt:place.v1:place96">Ἀχαιῶν</rs> τε <rs type="ethnic" n="urn:cite2:hmt:place.v1:place6">Τρώων</rs> τε:</l>
+        </div>
     </body>
   </text>
 </TEI>

@@ -20,27 +20,36 @@
     <group n="4">
       <text n="msB">
         <body>
-          <div n="51r_5" type="scholion">
+          
+          <div n="53r_1" type="scholion">
             <div n="lemma">
               <p>
-                <num value="19">ιθ</num>
+                <num value="13">ιγ</num>
               </p>
             </div>
             <div n="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.1@οἱ</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.84@ταμίης </p>
             </div>
             <div n="comment">
-              <p>πιθανῶς ἐκ τοῦ κάτωθεν θορύβου, ἐις 
-                 <choice><abbr>ὀυνὸν</abbr><expan>οὐρανὸν</expan></choice>
-                τὴν σκηνὴν μετήγαγεν: σεμνύνων καὶ ποικίλλων ἅμα τὴν ποίησιν,
-                τόποις τὲ καὶ προσώποις καὶ λόγοις: ὑπονοεῖν δε δεῖ παρὰ τὴν
-                ἁρπαγὴν ἀλεξάνδρου τοὺς λογους γεγενῆσθαι τοῖς θεοῖς:  ηὔξησε δὲ 
-                τὸ ἀγωνιστικὸν τῆς ὑποθέσεως τῇ τῶν θεῶν προνοίᾳ ⁑
+              <p>καλῶς τοῦτο τῇ φιλότητι <choice><abbr>ἐπήγαγε</abbr> <expan>ἐπήγαγεν</expan></choice>: ταμιεύει δὲ τὸ ἐναποκλείει ⁑
+              </p>
+            </div>
+          </div>
+          <div n="53r_2" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="14">ιδ</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.86@ἰκέλη</p>
+            </div>
+            <div n="comment">
+              <p> ἐνέπεσε μὲν τῷ πλήθει τῶν <rs type="ethnic" n="urn:cite2:hmt:place.v1:place6">Τρώων</rs> ὡς ἀστὴρ: ἀνδρὶ δὲ εἰκασθεῖσα <persName n="urn:cite2:hmt:pers.v1:pers216">Πάνδαρον</persName> ζητεῖ ⁑
               </p>
             </div>
           </div>
 
-          
         
         </body>
       </text>

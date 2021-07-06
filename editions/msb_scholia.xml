@@ -35,6 +35,7 @@
               </p>
             </div>
           </div>
+
           <div n="53r_2" type="scholion">
             <div n="lemma">
               <p>
@@ -50,7 +51,21 @@
             </div>
           </div>
 
-        
+        <div n="53r_3" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="15">ιε</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>rn:cts:greekLit:tlg0012.tlg001.msB:4.87@Ἀντηνορίδῃ</p>
+            </div>
+            <div n="comment">
+              <p> ⁑
+              </p>
+            </div>
+          </div>
+
         </body>
       </text>
     </group>

@@ -5,8 +5,12 @@
     <fileDesc>
       <titleStmt>
         <title>Scholia to Venetus B</title>
-        <editor>YOUR NAME</editor>
-        <editor>YOUR NAME</editor>
+        <editor>Neel Smith</editor>
+        <editor>Stephanie Lindeborg</editor>
+        <editor>Olga Levaniouk</editor>
+        <editor>Stephen Pittman</editor> 
+        <editor>Anne-Catherine Schaaf</editor>        
+        <editor>Hannah Newland</editor>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished</p>
@@ -61,7 +65,10 @@
               <p>rn:cts:greekLit:tlg0012.tlg001.msB:4.87@Ἀντηνορίδῃ</p>
             </div>
             <div n="comment">
-              <p> ⁑
+              <p> καλῶς τούτω εἰκάσθη: παρέβη γὰρ καὶ ἕτερον νόμον οὗτος πρὸ τοῦ νῦν: βούλεται δὲ παραβῆναι καὶ τοῦτον τὸν νόμον ἤτοι τῶν σπονδῶν: εἰ γὰρ ἕτερος ἦν ὁ συμβουλεύων, ἔφη ἂν ὁ Πάνδαρος:
+              
+              <!-- stopped here -->
+              'Διὰ τί μὴ καὶ σὺ παραβήσῃ τοὺς ὅρκους;' εἰκότως δὲ ὁ τοῦ φιλοξένου ἀνδρὸς παῖς Λαοδόκος καίτοι μὴ ὢν καλεῖται. ἀλλὰ καὶ κρατερὸς αἰχμητής, ἤτοι εἰς τὸ αἰχμάζειν ἰσχυρός⁑
               </p>
             </div>
           </div>
